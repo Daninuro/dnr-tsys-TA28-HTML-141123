@@ -1,0 +1,32 @@
+.tituloVerde{
+    color: rgb(48, 121, 48);
+    font-family: Arial, sans-serif;
+    letter-spacing: 4px;
+    font-weight: lighter;
+
+}
+.tituloAmarillo{
+    color: rgb(189, 140, 16);
+    font-family: Arial, sans-serif;
+    letter-spacing: 4px;
+    font-weight: lighter;
+
+}
+.borde{
+    border: 1px solid;
+    padding: 10px;
+    border-color:rgb(189, 189, 189);
+    margin: 10px;
+    padding-left: 20px; 
+}
+h1{
+    text-align: center;
+}
+h2{
+    color: rgb(59, 156, 59);
+    border-bottom: 1px solid;
+    border-color: rgb(189, 189, 189);
+}
+h3{
+    color: rgb(189, 140, 16);
+}
